@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int foo(int S[], int size)
 {
     if (size == 0)
